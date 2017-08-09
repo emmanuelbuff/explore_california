@@ -1,0 +1,4 @@
+tempfile.txt
+# Comment *.txt
+*.zip
+*.gz
